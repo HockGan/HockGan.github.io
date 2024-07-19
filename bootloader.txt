@@ -1,0 +1,5 @@
+ls /storage
+dd if=/storage/kode-sdcard/bootloader.img of=/dev/block/bootloader
+
+
+reboot atau reboot update
