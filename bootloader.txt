@@ -3,3 +3,6 @@ dd if=/storage/kode-sdcard/bootloader.img of=/dev/block/bootloader
 
 
 reboot atau reboot update
+
+
+https://gd.bungkulan.my.id/data.m3u8?file=8gsuR4ZHKdcwgESHm8egIHX7k9ibK5VHTI2Mg%2BXvjl%2FZyGp3qCEEi6ypHHkqgEhl&expiry=PHOKrvtQptB4VpkCgBmjLA%3D%3D&mac=786b9b3ddc2ef88cb24bf6688b83616b89b20a97b9ea79821e8d3e29f2903b98
